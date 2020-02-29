@@ -1,0 +1,24 @@
+$theme-colors: (
+  "orange0":#B36D10,	        /* Main orange*/
+  "orange1":#FFA731,
+  "orange2":#FF9B16,
+  "orange3":#4F2D00,
+  "orange4":#120B02,
+
+  "blue_primary0":#096B6B,    /* Main blue  */
+  "blue_primary1":#2EEFEF,
+  "blue_primary2":#0EA7A7,
+  "blue_primary3":#002F2F,
+  "blue_primary4":#010B0B,
+
+  "blue_secondary0":#163378,  /* Secondary blue */
+  "blue_secondary1":#4378F2,
+  "blue_secondary2":#214EB7,
+  "blue_secondary3":#051435,
+  "blue_secondary4":#02050C
+
+  );
+  
+$body-bg: rgb(255, 239, 219);
+
+  @import "../../node_modules/bootstrap/scss/bootstrap";
