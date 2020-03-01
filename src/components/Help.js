@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { Figure, Button, Accordion, Card } from "react-bootstrap";
+import React from "react";
+import { Button, Accordion, Card } from "react-bootstrap";
 
 function Help() {
   return (
