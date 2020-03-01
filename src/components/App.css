@@ -1,69 +1,51 @@
-/*  =====================================================
+/*  
+    =====================================================
                  C O L O R   P A L L E T T E
     http://paletton.com/#uid=30I0f0ktcmqpQV+th-wwd9SsZ2k
     =====================================================
 */
 
 .remove-person-button {
-    cursor: pointer;
+  cursor: pointer;
 }
 .current-formula {
-    border-radius: 50px;
-    box-shadow: 0px 2px #222;
-    font-size: 12px;
+  border-radius: 50px;
+  box-shadow: 0px 2px #222;
+  font-size: 12px;
 }
 
 .title-component {
-    border-radius: 15px;
-    box-shadow: 0px 3px 0px 2px #222;
-    text-shadow: 2px 2px #222;
-    font-size: 25pt;
+  border-radius: 15px;
+  box-shadow: 0px 3px 0px 2px #222;
+  text-shadow: 2px 2px #222;
+  font-size: 25pt;
 }
 
 .decision {
-    border-radius: 15px;
-    font-size: 20px;
-    color: black;
-    font-weight: bold;
-    text-align: center;
+  border-radius: 15px;
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+  text-align: center;
 }
 
-
-.person Table {
-    width: 150px;
-    margin: auto;
+.person table {
+  width: 150px;
+  margin: auto;
 }
 
 .person input {
-    font-size: 36pt;
-    width: 75px;
-    height: 36pt;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    resize: none;
-    text-align: center;
-    border-radius: 5px;
+  font-size: 36pt;
+  width: 75px;
+  height: 36pt;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  resize: none;
+  text-align: center;
+  border-radius: 5px;
 }
 
 .person input::placeholder {
-    font-size: 20pt;
-    text-align: center;
-    font-family: Brush Script MT, Brush Script Std, cursive ;
+  font-size: 20pt;
+  text-align: center;
+  font-family: Brush Script MT, Brush Script Std, cursive;
 }
-/*
-
-
-
-
-.person-list {
-}
-
-.person {
-    text-align: center;
-    display: inline-block;
-    border: 2px solid black;
-    border-radius: 10px;
-    margin: 8px;
-}
-
-
-*/
